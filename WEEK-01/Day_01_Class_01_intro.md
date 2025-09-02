@@ -1,4 +1,4 @@
-# Day 01 – Introduction
+# Class 01 – Introduction
 
 ## About the Course
 - Course Name: TECH-SAVVY 2025 (Latest Trends in Technology)
