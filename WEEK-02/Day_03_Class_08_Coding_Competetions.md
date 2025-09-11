@@ -101,5 +101,3 @@ Today’s session explored prestigious coding competitions and learning programs
 - **CALICO** is great for pre-college students preparing for contests like USACO or AP CS.   
 
 ---
-
-Would you like me to integrate this into your repo as `day08_coding_competitions.md` and update the Week 01 index to include Class 08?
