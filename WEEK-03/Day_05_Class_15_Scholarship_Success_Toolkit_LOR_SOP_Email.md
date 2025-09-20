@@ -1,4 +1,4 @@
-# Class-15 Scholarship Success Toolkit: LOR, SOP & Email Mastery
+# Class 15 - Scholarship Success Toolkit: LOR, SOP & Email Mastery
 
 ## 🎯 Overview
 
