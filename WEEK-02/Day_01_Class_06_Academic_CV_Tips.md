@@ -35,6 +35,20 @@
 
 ---
 
+## 🌍 Must-have things in your CV before Applying in USA for SCholarship
+
+- **20+ Hackathons** → Show dedication and ability to work with global teams
+- **MIT informatics Contest (M(IT)^2)**
+- **CALICO @UC Berkeley - (California Informatics Competition)**
+- **Stanford Code-in-Place-Section Leader** → Teach at Stanford Codeinplace
+- **CS 50X Puzzle Day @Harvard** → Solve 9/9 puzzle and win
+- **Google-Code-Jam**
+- **Meta Hacker Cup 2024**
+- **Volunteer Online Teaching of Python / DSA /LeetCode / IELTS of 100+ hours** → to the Unpreviliged Students
+- **Solve 300+ LeetCode problems**
+
+---
+
 ## LinkedIn Profile
 
 ### Why It Matters
