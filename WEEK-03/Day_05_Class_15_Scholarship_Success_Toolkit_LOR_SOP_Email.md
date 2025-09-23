@@ -58,6 +58,8 @@ Emailing professors is a strategic step for:
   - ✅ Use: `"Dear Prof. [Last Name]"`
   - ❌ Avoid: `"Hello"`, `"Hey"`, `"Hi"`
 
+- **Best Subject you can Use:**
+`Subject: "Prospective Graduate Candidate | Section Leader Mentor @ Stanford | Top Team Lead@ Harvard | IELTS 8.0"`
 #### 2. Email Body Components
 
 **Opening Paragraph:**
