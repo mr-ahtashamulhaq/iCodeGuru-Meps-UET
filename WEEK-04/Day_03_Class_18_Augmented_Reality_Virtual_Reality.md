@@ -27,7 +27,7 @@ Together, AR and VR unlock **immersive learning experiences, safe simulations, a
 ---
 
 ## 🌐 What is Virtual Reality (VR)?
-- VR immerses users in a **completely digital world**, cutting off the real environment.  
+- VR immerses users in  **completely digital world**, cutting off the real environment.  
 - Requires **VR headsets** (Oculus Quest, HTC Vive, PlayStation VR).  
 
 ### Key Features:
