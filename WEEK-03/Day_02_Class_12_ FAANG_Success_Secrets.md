@@ -19,7 +19,7 @@ This session focused on comparing **career opportunities in Pakistan vs. Silicon
 - Benefits:  
   - Healthcare, relocation allowance, bonuses, RSUs (stock options).  
   - Work with **global teams** on cutting-edge projects.  
-  - Clear growth opportunities: technical ladder (senior/staff engineer) or managerial ladder.  
+  - Clear growth opportunities: technical ladder (senior engineer) or managerial ladder.  
 
 ---
 
