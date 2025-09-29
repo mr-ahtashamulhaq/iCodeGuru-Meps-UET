@@ -38,8 +38,7 @@ Together, AR and VR unlock **immersive learning experiences, safe simulations, a
 ### Use Cases:
 - **Gaming & Entertainment:** Fully immersive worlds.  
 - **Medicine:** Surgery simulations and therapy treatments.  
-- **Military & Aviation:** Training pilots and soldiers in safe virtual environments.  
-- **Architecture:** Virtual walkthroughs of buildings before construction.  
+- **Military & Aviation:** Training pilots and soldiers in safe virtual environments.   
 
 ---
 
