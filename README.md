@@ -5,4 +5,4 @@ This repository contains my notes, code, and exercises from the **TECH-SAVVY 202
 - Language: Python
 - Topics: Python, AI applications, Digital Presence(LinkedIn, GitHub, CV, Portfolio), FAANG Interview Prep & Global Hackathons
 
-Each day/week has its own folder with code (`.py`) or notes (`.md`).
+Each day/week has its own folder with code (`.py`) or notes (`.md`)..
